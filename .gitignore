@@ -1,0 +1,5 @@
+# build stuff
+build
+
+# env file
+.env

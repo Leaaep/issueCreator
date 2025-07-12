@@ -1,0 +1,13 @@
+{
+  "name": "issuecreator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "gcc main.c -lcurl -o build/main",
+    "start": "build/main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
